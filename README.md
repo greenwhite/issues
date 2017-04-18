@@ -1,1 +1,1 @@
-# bug
+# bug tracker for all projects
