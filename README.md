@@ -1,2 +1,3 @@
 # bug tracker for all projects
-123
+
+https://groups.google.com/forum/#!forum/gws_smartup
